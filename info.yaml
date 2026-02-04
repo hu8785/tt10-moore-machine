@@ -20,7 +20,7 @@ project:
     - "tt_um_Akanksha_hu8785_moore.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
-pin_out:
+pinout:
   # Inputs
   ui[0]: "x1"
   ui[1]: ""
